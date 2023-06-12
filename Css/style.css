@@ -19,6 +19,7 @@ height: auto;
 
     
 #miVideo{
+  margin-top: 20px;
   padding-top: 5px;
   margin-left:70px;
   margin-bottom: 30px;
@@ -26,6 +27,8 @@ height: auto;
   border-width: 10px;
   border-color:olivedrab ;
   border-style: double;
+  width: 1280px;
+  height:720px;
 
     }
   
