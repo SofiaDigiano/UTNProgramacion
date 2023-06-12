@@ -1,0 +1,137 @@
+@media (min-width: 768px), screen and (orientation: landscape) {
+  
+.body{
+  background-color: black;
+
+  }
+
+
+/* IMAGENES */
+
+.imglogo{
+background-color: black;
+margin: 50px;
+color: black;
+display:flex;
+width: 40%; 
+height: auto;
+    }
+
+    
+#miVideo{
+  padding-top: 5px;
+  margin-left:70px;
+  margin-bottom: 30px;
+  border-radius: 30px;
+  border-width: 10px;
+  border-color:olivedrab ;
+  border-style: double;
+
+    }
+  
+
+
+    /* BOTONES */
+#botones{
+    font-family:fantasy;
+    color: black;
+    background: radial-gradient(circle, rgba(57,112,41,1) 0%, rgba(11,43,2,1) 100%);;
+    margin-left: 90px;
+    margin-top: 180px;
+    margin-bottom: 20px;
+    padding-top: 16px;
+    padding-bottom: 16px ;
+    border-color: rgb(8, 54, 2);
+    border-width: 5px;
+    
+}
+#botones2{
+  font-family:fantasy;
+  color: black;
+  background: radial-gradient(circle, rgba(57,112,41,1) 0%, rgba(11,43,2,1) 100%);;
+  margin-left: 90px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-top: 16px;
+  padding-bottom: 16px ;
+  border-color: rgb(8, 54, 2);
+  border-width: 5px;
+}
+
+ 
+/* SINOPSIS*/
+  .card-body{
+    box-shadow: 10px 10px 41px 0px rgb(44, 83, 114);
+    border-style:double;
+    border-width: 10px;
+    border-color: rgb(88, 44, 44);
+    border-radius: 15%;
+    margin:30px;
+    
+  }
+
+  .card-text {
+    background-image: url("../img/imagen2.png");
+    border-radius: 15%;
+    padding:45px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:60;
+    font-size: 20px;
+    font-display: justify;
+    color: rgb(23, 94, 136);
+    
+  }
+
+  
+
+  /* PERSONAJES */
+.card{
+background-color: rgb(26,9,27);;
+margin-left: 30px;
+margin-right: 30px;
+background-image:  url("../img/sinopsis.jpg");
+}
+
+.tarjeta-cuerpo{
+margin: 5px;
+padding: 5px;
+background-image: revert, url("../img/sinopsis.jpg");
+backdrop-filter: blur(5px);
+border-color: black;
+border-style: double;
+border-width: 10px;
+
+}
+
+.tarjeta-titulo{
+  margin: 10px;
+  font-family:'Courier New', Courier, monospace ;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(121, 143, 132);
+  
+}
+
+.tarjeta-text{
+  margin:10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(114, 110, 110);
+
+}
+
+
+/* ESCENAS */
+.card2{
+  border-style:double;
+  border-color: rgb(68, 29, 104);
+  padding-left: 65px;
+  padding-right: 30px;
+  margin: 40px;
+  
+  background-image: url("../img/1.jpg");
+  backdrop-filter: blur(15px);
+  }
+
+
+
+}
