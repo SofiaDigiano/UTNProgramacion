@@ -8,4 +8,4 @@ Dicha pagina tiene diferentes secciones. Para empezar tiene con Js un cuadro de 
 Para poder visualizarla debe aceptar el cuadro que aparece. Luego se visualiza el Home con el Opening de dicho anime y un menu lateral.
 En el menu lateral se puede observar la seccion de Sinopsis donde se encuentra el argumento del anime. Luego esta la seccion de personajes donde se visualizan los personajes principales.
 Tambien hay una seccion de música donde se puede ver videos de diferentes partes de la serie. Y opnening y Ending tambien. 
-Y por ultimo la seccion de escenas donde se encuentran videos AMV hechos por fans de las mejores escenas del anime. 
+Y por ultimo la seccion de escenas donde se encuentran videos AMV hechos por fans de las mejores escenas del anime. Espero que les guste! :D
